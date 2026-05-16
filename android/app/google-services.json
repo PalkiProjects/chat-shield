@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857242554727",
+    "project_id": "chatshield-6995c",
+    "storage_bucket": "chatshield-6995c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857242554727:android:82fa379d4c66f1ef7b1fc2",
+        "android_client_info": {
+          "package_name": "com.example.chatshield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwKeyRbAmkb57hsQYxu-roSxGJ4mE2iSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
